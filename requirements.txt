@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+lxml
+tqdm
+scikit-learn
+nltk
+matplotlib
+joblib
+wordcloud
+streamlit
+plotly
